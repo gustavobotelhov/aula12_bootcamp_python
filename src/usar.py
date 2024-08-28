@@ -1,4 +1,4 @@
-from csv_class import CsvProcessor
+from interface.classes.csv_class import CsvProcessor
 # import pandas as pd
 
 arquivo_csv = './exemplo.csv'
